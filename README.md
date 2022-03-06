@@ -312,7 +312,7 @@ APICloud 新手开发指南。the APICloud guidance for beginners.
 #### 4.1.3. 模块管理【中级】
 
 - 《证书管理界面》http://www.apicloud.com/certificate
-- 《安卓证书指南》https://docs.apicloud.com/Dev-Guide/Android-License-Application-Guidance
+- 《Android 证书指南》https://docs.apicloud.com/Dev-Guide/Android-License-Application-Guidance
 - 《iOS 证书指南》https://docs.apicloud.com/Dev-Guide/iOS-License-Application-Guidance
 - 《iOS 证书生成服务》https://developer.yonyou.com/forum.php?mod=viewthread&tid=170538&fromuid=722608
 
