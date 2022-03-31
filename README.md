@@ -32,9 +32,14 @@ APICloud 新手开发指南。the APICloud guidance for beginners.
 
 #### 1.1.1 HTML / CSS / JS 【初级】
 
+- 《参考链接》：（本部分内容属于通用性技术指南，可以从互联网获得相关知识。）
+
 #### 1.1.2 多端跨平台技术【中级】
 
-- 《参考链接》：（本部分内容属于通用性技术指南，可以从互联网获得相关知识。）
+- 《跨平台开发技术的演进之路》https://mp.weixin.qq.com/s/pU8wayqOu3IDo7eFs2K_5g
+- 《多端时代的大道至简》https://mp.weixin.qq.com/s/3nWl9gB5Jusj3F0h5hsMAw
+- 《开发工具的全流程化趋势》https://mp.weixin.qq.com/s/15oGBUDq8IVDanxZjArTQA
+- 《高性能AVM框架应势而来》https://mp.weixin.qq.com/s/08Yyc5ItVQKKW66KPfusEg
 
 ### 1.2.  平台基础
 
